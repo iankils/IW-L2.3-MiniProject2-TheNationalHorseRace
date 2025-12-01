@@ -1,12 +1,13 @@
-Notes:
+*Note:*
 In this lab, you will be using addEventListener and innerHTML to activate buttons. When the button is clicked, it should move the corresponding horse up one step. When a horse reaches the end of the "road" a message will appear saying that that color has won. The blue horse is already done, use it an example.
 
 In the second half of the lab, you will use ARIA and alt text to make the webpage accessible. Resources have been provided.
 
-Prompt:
-It's the national horse race again! Three horses line up to race for the finish line. Which one will win? Click the "Run!" button to activate a horse. (Try the blue one, it works!) When it gets to the end of the screen, a text should appear announcing that horse the winner.
 
-Directions: 
+# It's the national horse race again! 
+Three horses line up to race for the finish line. Which one will win? Click the "Run!" button to activate a horse. (Try the blue one, it works!) When it gets to the end of the screen, a text should appear announcing that horse the winner.
+
+## Directions: 
 Your task is to finish the website so that the pink and brown horse also work the same as the blue horse. You'll have to use querySelector, addEventListener, and arrow functions to do so. For the extensions, you'll have a chance to add a fourth horse, a reset button, and more.
 
 1)   If you haven't already, check out the website and notice that when you click the "Run!" button next to the blue horse, the blue horse moves forward a bit. First thing we're going to work on is getting the other horses to do the same. This will be done in 3 parts: 1st, you'll need querySelectors to listen to the button and move the horse image, 2nd, you'll need to create addEventListeners for each button, and 3rd, you'll need to create a function that advances the horse once the button is clicked.
