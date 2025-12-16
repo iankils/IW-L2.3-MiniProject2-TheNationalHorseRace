@@ -3,6 +3,19 @@ In this lab, you will be using addEventListener and innerHTML to activate button
 
 In the second half of the lab, you will use ARIA and alt text to make the webpage accessible. Resources have been provided.
 
+## Rubric/Grade Breakdown
+
+| Grade | Criteria |
+|:------|:-----|
+| 0 | Nothing completed or submitted|
+| 80 | Original (steps 1-7) |
+| 85 | + Mild completed |
+| 90 | + Medium completed |
+| 95 | + Spicy completed|
+|100 | Any Bonus feature |
+
+*Bonus feature: 4th horse + something magical*
+
 
 # It's the national horse race again! 
 Three horses line up to race for the finish line. Which one will win? Click the "Run!" button to activate a horse. (Try the blue one, it works!) When it gets to the end of the screen, a text should appear announcing that horse the winner.
