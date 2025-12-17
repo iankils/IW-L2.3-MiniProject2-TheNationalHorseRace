@@ -1,5 +1,5 @@
 *Note:*
-In this lab, you will be using addEventListener and innerHTML to activate buttons. When the button is clicked, it should move the corresponding horse up one step. When a horse reaches the end of the "road" a message will appear saying that that color has won. The blue horse is already done, use it an example.
+In this lab, you will be using addEventListener and innerHTML to activate buttons. When the button is clicked, it should move the corresponding horse up one step. When a horse reaches the end of the "road" a message will appear saying that that color has won. The blue horse is already done, use it as an example.
 
 In the second half of the lab, you will use ARIA and alt text to make the webpage accessible. Resources have been provided.
 
